@@ -1,0 +1,11 @@
+1. Artist vs Track Popularity
+The scatter plot suggests a positive relationship between artist popularity and track popularity. Tracks released by highly popular artists generally receive higher popularity scores, although a few less popular artists still manage to achieve strong track performance.
+
+2. Track Duration vs Popularity
+There is no strong linear relationship between track length and popularity. This indicates that song duration alone does not determine how popular a track becomes on Spotify.
+
+3. Popularity Distribution (Histogram)
+Most tracks fall in the mid-range of popularity, with fewer tracks reaching extremely high or very low popularity values. This suggests a normal-like distribution of popularity scores.
+
+4. Release Year Trend
+The line chart shows changes in the number of tracks released per year. Any spikes in certain years may reflect market trends or increased music production in those periods.
