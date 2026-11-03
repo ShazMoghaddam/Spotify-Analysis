@@ -1,0 +1,13 @@
+{
+  "tracks": {
+    "name": "Spotify Global Music Dataset (2009–2025)",
+    "file": "spotify_data clean.csv",
+    "published_by": "Warda Bilal, on Kaggle",
+    "published_at": "https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025",
+    "collected_from": "Spotify's public Web API",
+    "last_updated_by_publisher": "2025-11-11",
+    "licence": "CC0: Public Domain",
+    "covers": "8,582 tracks by 2,547 artists, released from 1952 to 2025, with popularity scores read once around November 2025. Despite the dataset's name, it isn't limited to 2009 to 2025.",
+    "kept_in_repo": "data/raw/spotify_data_clean.csv, unchanged apart from its file name, which had a space"
+  }
+}
